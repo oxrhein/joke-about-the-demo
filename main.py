@@ -6,6 +6,7 @@ Stdlib only, no network, deterministic.
 
 import os
 
+# One line, 171 characters. The gate (RULES.txt) allows 1-280.
 LINE = "I asked my agent to fix one bug before the demo \u2014 it fixed it in seconds, then rewrote the whole feature for fun, so now we have three new bugs and a very proud assistant."
 
 def main():
